@@ -41,7 +41,8 @@ from kivy.app import App
 SizeList=[]
 
 
-Config.set('graphics','resizable',0)
+#Config.set('graphics','resizable',0)
+Window.size=(400,600)
 
 class MenuScreen(Screen):
     pass
