@@ -1,10 +1,10 @@
 # TrueBudget
 
-##Task
+# Task
 
 Build a self budgeting app with kivyMD that helps keep track of expenses and attempt to help save money
 
-#run locally
+# Run locally
 
 first install kivy and kivymd  using these steps
 https://kivy.org/doc/stable/installation/installation-windows.html
@@ -12,7 +12,7 @@ https://kivymd.readthedocs.io/en/latest/getting-started.html
 
 then clone repository and run code! :)
 
-App includes :
+# App includes :
 
 pie chart made here 
 https://github.com/MrTequila/kivy-PieChart/blob/master/LICENSE
