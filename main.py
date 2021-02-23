@@ -1,6 +1,5 @@
 #https://github.com/MrTequila/kivy-PieChart/blob/master/LICENSE
 #https://github.com/MrTequila/kivy-PieChart/blob/master/LICENSE
-print("i changed this")
 from kivy import Config
 from KvString import *
 from kivy.graphics.context_instructions import Color
